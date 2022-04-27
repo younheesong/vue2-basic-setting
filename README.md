@@ -1,4 +1,4 @@
-# fe-ace-restaurant
+# vue2-basic-setting
 
 ## Project setup
 
